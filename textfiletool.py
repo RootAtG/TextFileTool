@@ -1,5 +1,8 @@
-import time #hello
-import os
+#Learnign Python. This is my first actual program
+
+
+import time #I imported time so the program looked natural
+import os #I imported OS so the program could have the delete text feature
 print()
 print()
 
@@ -115,11 +118,6 @@ while var == None:
         else:
             print(find + " is not in the file")
             print()
-
-
-
-
-
     elif tcon == "-m":
         print()
         fc = input("Enter the filename you want to create: ")
